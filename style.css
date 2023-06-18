@@ -43,7 +43,8 @@ iframe#tela {
 }
 
 section#redes-sociais {
-    text-align: right;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 section#redes-sociais img {
